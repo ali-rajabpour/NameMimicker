@@ -2,6 +2,8 @@
 
 # Mimicker - Bash script for running the character mimicking tool
 # Created for CEH certified research purposes
+# Author: Ali Rajabpour Sanati
+# Website: Rajabpour.com
 
 # Colors for better UI
 RED='\033[0;31m'
@@ -143,7 +145,17 @@ show_commands() {
 show_menu() {
     clear
     echo -e "${CYAN}======================================================${NC}"
+    echo -e "${GREEN}         ███╗   ███╗██╗███╗   ███╗██╗ ██████╗██╗  ██╗███████╗██████╗ ${NC}"
+    echo -e "${GREEN}         ████╗ ████║██║████╗ ████║██║██╔════╝██║ ██╔╝██╔════╝██╔══██╗${NC}"
+    echo -e "${GREEN}         ██╔████╔██║██║██╔████╔██║██║██║     █████╔╝ █████╗  ██████╔╝${NC}"
+    echo -e "${GREEN}         ██║╚██╔╝██║██║██║╚██╔╝██║██║██║     ██╔═██╗ ██╔══╝  ██╔══██╗${NC}"
+    echo -e "${GREEN}         ██║ ╚═╝ ██║██║██║ ╚═╝ ██║██║╚██████╗██║  ██╗███████╗██║  ██║${NC}"
+    echo -e "${GREEN}         ╚═╝     ╚═╝╚═╝╚═╝     ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝${NC}"
+    echo -e "${CYAN}======================================================${NC}"
     echo -e "${CYAN}                MIMICKER MENU                         ${NC}"
+    echo -e "${CYAN}======================================================${NC}"
+    echo -e "${PURPLE}Author: Ali Rajabpour Sanati${NC}"
+    echo -e "${PURPLE}Website: Rajabpour.com${NC}"
     echo -e "${CYAN}======================================================${NC}"
     echo -e "${YELLOW}1.${NC} Run Mimicker (Basic)"
     echo -e "${YELLOW}2.${NC} Run Mimicker (Advanced)"

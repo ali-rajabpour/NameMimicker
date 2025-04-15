@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+# By Ali Rajabpour Sanati | Rajabpour.com
 """
 Mimicker - Character Set Mimicking Tool
 Created for CEH certified research purposes
