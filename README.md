@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1d6a95d1-a5cd-45fe-b742-6f447fd9c225" 
+       alt="FileFlow"
+       width="40%" />
+</p>
+
 # Mimicker - Advanced Character Set Mimicking Tool
 
 A powerful and sophisticated character set mimicking tool designed for CEH certified security research and homoglyph analysis.
